@@ -1,6 +1,7 @@
 body{
   
     width: 100%;
+    min-width: 500%;
     font-family: "Avenir","Montserrat";
 }
 
@@ -50,7 +51,7 @@ bottom: 82.51%;
 position: absolute;
 width: 66%;
 height: 0%;
-left: 800%;
+left: 600%;
 top: 7%;
 bottom: 0%;
 
@@ -76,7 +77,7 @@ color: #274970;
   position: absolute;
 width: 66%;
 height: 0%;
-left: 1020%;
+left: 900%;
 top: 7%;
 bottom: 0%;
 
@@ -102,7 +103,7 @@ color: #274970;
   position: absolute;
 width: 66%;
 height: 0%;
-left: 1320%;
+left: 1300%;
 top: 7%;
 bottom: 0%;
 
@@ -127,8 +128,8 @@ color: #274970;
 
 .bt{
   position: absolute;
-width: 250%;
-height: 3%;
+width: 280%;
+height: 45px;
 left: 1650%;
 top: 5%;
 background: #274970;
