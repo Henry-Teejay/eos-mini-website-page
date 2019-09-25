@@ -127,10 +127,10 @@ color: #274970;
 
 .bt{
   position: absolute;
-width: 270%;
-height: 7%;
+width: 250%;
+height: 3%;
 left: 1650%;
-top: 3%;
+top: 5%;
 background: #274970;
 color: white;
 -webkit-transition: width 0.3s; /* For Safari 3.1 to 6.0 */
